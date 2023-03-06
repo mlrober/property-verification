@@ -1,0 +1,79 @@
+# property-verification
+Construction Qualys Checks
+- Inspections and tests
+	- Inspections and tests are an essential part of verifying construction quality. Regular inspections and tests should be conducted during the construction process to ensure that work is progressing according to plan and meets the required quality standards. 
+	- Inspections may include visual inspections, testing of materials and components, and measurements of critical parameters such as structural integrity, electrical and mechanical systems, and fire safety.
+	- Soil Testing
+		- Soil testing is critical in Chennai, and it is essential to understand the soil conditions before construction begins. Soil tests include tests for soil bearing capacity, soil density, soil permeability, and shear strength. 
+		- The tests can be performed by a geotechnical engineer or a soil testing laboratory.
+	- Concrete Testing
+		- Concrete testing is necessary to ensure that the concrete used in construction projects meets the required strength and durability standards. 
+		- Tests can include 
+			- compressive strength tests
+			- slump tests
+			- tests for air content and workability.
+		- The tests can be performed by a certified laboratory or by a qualified technician using portable testing equipment.
+	- Structural Inspections
+		- Structural inspections are conducted to ensure that the building's structural components, such as 
+			- beams
+			- columns
+			- slabs
+		- are constructed according to the approved plans and specifications. 
+		- The inspections can be performed by a structural engineer or a qualified inspector.
+	- Electrical Inspections
+		- Electrical inspections are necessary to ensure that the electrical systems in the building are installed correctly and meet the safety standards set by the Bureau of Indian Standards (BIS). 
+		- Electrical inspections can be carried out by a licensed electrician or a qualified electrical inspector.
+	- Plumbing Inspections
+		- Plumbing inspections are performed to ensure that the plumbing systems are installed correctly and meet the standards set by BIS.
+		- Plumbing inspections can be carried out by a licensed plumber or a qualified plumbing inspector.
+	- Fire Safety Inspections
+		- Fire safety inspections are necessary to ensure that the building's fire protection systems, such as fire sprinklers, fire alarms, and fire extinguishers, are installed correctly and meet the standards set by BIS.
+		- Fire safety inspections can be carried out by a qualified fire safety inspector or a fire protection engineer.
+	- Environmental Inspections
+		- Environmental inspections may be required to ensure that the construction project complies with environmental regulations and standards, such as waste disposal and pollution control. 
+		- Environmental inspections can be carried out by a qualified environmental engineer or an environmental inspector.
+
+
+- Compliance checks
+	- Compliance checks involve verifying that the construction project complies with all relevant codes, regulations, and standards. 
+	- This includes building codes, zoning regulations, safety regulations, and environmental standards.
+	- Compliance checks can be carried out by third-party inspectors or by government agencies.
+	- Building Codes
+		- Building codes are regulations that set minimum standards for building design and construction. 
+		- Compliance checks for building codes can be done by engaging a building code consultant or a certified code enforcement officer.
+	- Zoning Regulations
+		- Zoning regulations govern the use of land within a specific jurisdiction.
+		- Compliance checks for zoning regulations can be carried out by engaging a land use consultant or a zoning inspector.
+	- Environmental Regulations
+		- Environmental regulations set standards for air and water quality, waste disposal, and other environmental concerns. - Compliance checks for environmental regulations can be carried out by engaging an environmental consultant or an environmental inspector.
+	- Occupational Health and Safety Regulations
+		- Occupational health and safety regulations set standards for workplace safety. 
+		- Compliance checks for occupational health and safety regulations can be done by engaging a certified safety consultant or a qualified safety inspector.
+	- Contractual Obligations
+		- Contractual obligations refer to the terms and conditions agreed upon in the contract between the project owner and the contractors. 
+		- Compliance checks for contractual obligations can be carried out by engaging a legal consultant or an attorney.
+	- Insurance Requirements
+		- Insurance requirements refer to the minimum insurance coverage required for a construction project.
+		- Compliance checks for insurance requirements can be carried out by engaging an insurance consultant or an insurance inspector.
+- Documentation review
+	- Verifying construction quality involves reviewing the construction documentation, such as the construction drawings, specifications, and quality control plans.
+	- This ensures that the construction project is being built according to the approved plans and that all materials and components used meet the specified quality standards.
+	- Identify the scope of the review
+		- Define the scope of the review by identifying the documents that need to be reviewed, the specific areas of concern, and the level of detail required.
+	- Gather the relevant documents
+		- Collect all the documents that are relevant to the review. These may include project plans, specifications, drawings, contracts, reports, and other project-related documents.
+	- Assign review responsibilities
+		- Identify the individuals or teams responsible for conducting the review. Assign specific tasks and responsibilities to each reviewer.
+	- Conduct the review
+		- Review each document thoroughly to identify any errors, inconsistencies, or omissions. Use checklists, templates, and other review tools to ensure consistency and completeness.
+	- Document review findings
+		- Record any review findings in a report or a database. Categorize the findings by type and severity, and assign responsibility for correcting the issues.
+	- Communicate review findings
+		- Share the review findings with the project team and other stakeholders. Provide clear and concise feedback on the issues identified and the actions required to address them.
+	- Follow-up on review findings: Monitor the implementation of corrective actions and follow up on any outstanding issues to ensure that they are resolved.
+- Performance testing
+	- Performance testing involves testing the construction project's performance after it is completed. 
+	- This	,,,,,,, may include testing of HVAC systems, lighting systems, plumbing systems, and other building systems to ensure that they are functioning as intended.
+- Final inspections
+	- A final inspection is typically conducted at the completion of the construction project. 
+	- This involves a thorough inspection of the entire construction project to ensure that all work has been completed to the required quality standards.
