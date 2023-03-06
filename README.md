@@ -1,4 +1,146 @@
 # property-verification
+Verify Builder Reputation
+- Research online
+	- their experience with the builder, quality of construction, adherence to timelines, and after-sales service.
+	- CommonFloor
+		- CommonFloor is a popular real estate website in India that offers listings of properties and builders.
+		- about the reputation of builders in Tamil Nadu on this website, as well as reviews and ratings from previous buyers.
+	- Magicbricks
+		- Magicbricks is another leading real estate website in India that provides information about builders and their projects.
+		- research the reputation of builders in Tamil Nadu, read reviews from previous buyers, and get information about their past projects.
+	- Housing.com
+		- Housing.com is a real estate website that offers listings of properties and builders across India.
+		- about the reputation of builders in Tamil Nadu, as well as reviews and ratings from previous buyers.
+	- 99acres
+		- 99acres is a real estate website that offers listings of properties and builders in India
+		- the reputation of builders in Tamil Nadu, read reviews from previous buyers, and get information about their past projects.
+	- PropertyWala
+		- PropertyWala is a real estate website that offers listings of properties and builders in India.
+		- the reputation of builders in Tamil Nadu, as well as reviews and ratings from previous buyers.
+
+- Check the builder's credentials
+	- Verify the builder's credentials by checking their registration with the local real estate authority, such as the Real Estate Regulatory Authority (RERA) or the Builders Association of India (BAI). You can also check if they have won any awards or recognition for their work.
+	- RERA website
+		- The Real Estate Regulatory Authority (RERA) is a government body that regulates the real estate sector in India.
+		- In Tamil Nadu, you can visit the Tamil Nadu RERA website at https://www.tnrera.in/.
+	- CREDAI website
+		- The Confederation of Real Estate Developers' Associations of India (CREDAI) is a national body of private real estate developers in India.
+		- https://credai.org/ to check the credentials of builders who are members of CREDAI.
+	- The Builders Association of India (BAI) website
+		- The Builders Association of India is a national body of private builders in India.
+		- https://www.baiindia.in/ to check the credentials of builders who are members of BAI.
+	- The Indian Green Building Council (IGBC) website
+		- The Indian Green Building Council is a non-profit organization that promotes sustainable building practices in India.
+		- https://igbc.in/ to check the credentials of builders who have been certified by IGBC for their sustainable building practices.
+- Visit completed projects
+	- Visit some of the builder's completed projects to assess the quality of construction, design, and amenities provided.
+	- Talk to the residents and get their feedback on the builder's service and support.
+- Check the builder's financial stability
+	- Check the builder's financial stability and ability to complete the project on time by looking at their balance sheet, cash flow, and debt-to-equity ratio.
+	- You can also check if the builder has obtained any bank loans or financial assistance for their projects.
+	- Ministry of Corporate Affairs
+		- The Ministry of Corporate Affairs is a government body that maintains the official register of companies in India.
+		- https://www.mca.gov.in/mcafoportal/showCheckCompanyName.do to check the financial stability of a builder by searching their name in the company register.
+	- Credit Rating Agencies
+		- Credit rating agencies like CRISIL, CARE Ratings, ICRA, and Brickwork Ratings provide independent credit ratings for companies based on their financial stability and creditworthiness.
+		- visit their websites to check the credit ratings of a builder and assess their financial stability.
+	- Company Annual Reports
+		- Most builders are publicly listed companies and are required to file annual reports with the Ministry of Corporate Affairs. - You can visit the MCA website or the builder's website to access their annual reports and financial statements.
+	- Property Listing Websites
+		- Property listing websites like Magicbricks, 99acres, and Housing.com may also provide information about the financial stability of a builder. 
+		- You can check the builder's past projects and customer reviews to gauge their financial stability and reputation in the market.
+- Seek professional help
+	- Seek the help of a real estate agent or lawyer to verify the builder's reputation and ensure that all legal and regulatory requirements are met before making the purchase.
+
+Legal Checks to be performed
+- Title deeds
+	- Check the title deeds of the property to verify the ownership and legal status. The title should be clear and free from any encumbrances or disputes. 
+	- obtain the title deeds from the seller or from the local sub-registrar's office.
+	- Tamil Nadu Registration Department
+		- The Tamil Nadu Registration Department maintains a website where you can search for land records and check the status of property documents. 
+		- http://www.tnreginet.gov.in/portal/ to search for the title deeds of a property in Tamil Nadu.
+	- Inspector General of Registration and Controller of Stamps
+		- The Inspector General of Registration and Controller of Stamps is a government body that oversees property registration and stamp duty in Tamil Nadu.
+		- http://www.tnreginet.gov.in/portal/ to search for the title deeds of a property in Tamil Nadu.
+	- Encumbrance Certificate
+		- An Encumbrance Certificate (EC) is a legal document that shows the ownership of a property and any charges or liens against it.
+		- http://www.tnreginet.gov.in/portal/
+	- Property Listing Websites
+		- Property listing websites like Magicbricks, 99acres, and Housing.com may also provide information about the title deeds of a property
+		- You can check the property listing to see if the title deeds are clear and up-to-date.
+- Approvals and permissions
+	- Verify if the property has obtained all the necessary approvals and permissions from the local authorities, such as the Municipal Corporation, the Development Authority, or the Town Planning Department. 
+		- This includes approvals for the building plan, layout plan, environmental clearance, and land use permission.
+	- Tamil Nadu Town and Country Planning Department
+		- The Tamil Nadu Town and Country Planning Department is a government body that oversees land use and development in the state. 
+		- https://www.tn.gov.in/dtp/ to check the approvals and permissions of a property in Tamil Nadu.
+	- Tamil Nadu Pollution Control Board
+		- The Tamil Nadu Pollution Control Board is a government body that regulates pollution and environmental issues in the state. 
+		- http://www.tnpcb.gov.in/ to check if the property has received the necessary environmental clearances.
+	- Tamil Nadu Fire and Rescue Services Department
+		- The Tamil Nadu Fire and Rescue Services Department is a government body that oversees fire safety and prevention in the state.
+		- http://www.tnfrs.tn.nic.in/ to check if the property has received the necessary fire safety clearances.
+	- Local Municipal Corporation
+		- The local municipal corporation is responsible for issuing building permits and ensuring that construction activities comply with the building codes and regulations.
+		- You can visit the website of the local municipal corporation to check the approvals and permissions of a property.
+- Encumbrances
+	- Check if there are any encumbrances on the property, such as mortgages, liens, or easements. 
+	- This can be verified by obtaining an Encumbrance Certificate (EC) from the local sub-registrar's office.
+	- Tamil Nadu Registration Department
+		- The Tamil Nadu Registration Department maintains a website where you can search for land records and check the status of property documents.
+		- http://www.tnreginet.gov.in/portal/ to search for encumbrances on a property in Tamil Nadu.
+	- Encumbrance Certificate
+		- An Encumbrance Certificate (EC) is a legal document that shows the ownership of a property and any charges or liens against it
+		- http://www.tnreginet.gov.in/portal/.
+	- Tamil Nadu Electricity Board
+		- The Tamil Nadu Electricity Board is responsible for providing electricity connections to properties in the state. 
+		- https://www.tangedco.gov.in/ to check if there are any outstanding dues or arrears on the property.
+	- Property Listing Websites
+		- Property listing websites like Magicbricks, 99acres, and Housing.com may also provide information about encumbrances on a property
+		- You can check the property listing to see if there are any charges or liens against the property.
+- Non-Agricultural (NA) certificate
+	- Verify if the property is classified as non-agricultural land and has obtained an NA certificate from the local revenue authorities.
+	- This is important if the property is located outside the urban area or in a rural area.
+	- Tamil Nadu Town and Country Planning Department
+		- The Tamil Nadu Town and Country Planning Department is a government body that oversees land use and development in the state.
+		- https://www.tn.gov.in/dtp/ to check the non-agricultural (NA) certificate of a property in Tamil Nadu.
+	- Local Municipal Corporation
+		- The local municipal corporation is responsible for issuing building permits and ensuring that construction activities comply with the building codes and regulations.
+		- You can visit the website of the local municipal corporation to check the non-agricultural (NA) certificate of a property.
+	- Tamil Nadu Patta Chitta
+		- Patta Chitta is a government record that contains information about land ownership and other details such as survey number, extent of the land, etc.
+		- https://eservices.tn.gov.in/eservicesnew/index.html to check if the property has an NA certificate.
+- Tax receipts
+	- Check if the seller has paid all the property tax dues and obtained the latest tax receipts.
+	- This can be verified by obtaining the latest tax receipts from the local municipality or revenue authorities.
+	- Tamil Nadu Property Tax
+		- The Tamil Nadu Property Tax website allows you to pay your property tax online and download the tax receipt.
+		- https://tnurbanepay.tn.gov.in/ to pay your property tax and get the tax receipt.
+	- Tamil Nadu Municipality and Corporation Websites
+		- Most of the municipalities and corporations in Tamil Nadu have their own websites where you can pay your property tax online and download the tax receipt. 
+		- For example,
+			- Chennai Corporation website at https://www.chennaicorporation.gov.in/ 
+			- Coimbatore Corporation website at https://www.ccmc.gov.in/ to pay your property tax and get the tax receipt.
+	- Online Payment Portals
+		- There are also many online payment portals like Paytm, PhonePe, and Google Pay that allow you to pay your property tax online and download the tax receipt. You can search for these portals online and check if they support property tax payments in Tamil Nadu.
+- Litigation and disputes
+	- Verify if there are any pending litigation or disputes related to the property by obtaining a legal search report from a lawyer or a title search agency.
+	- Tamil Nadu Property Tax
+		- The Tamil Nadu Property Tax website allows you to pay your property tax online and download the tax receipt. 
+		- https://tnurbanepay.tn.gov.in/ to pay your property tax and get the tax receipt.
+	- Tamil Nadu Municipality and Corporation Websites
+- To perform these legal checks, you can follow these steps:
+	- Hire a lawyer
+		- Hire a lawyer who specializes in property law to perform the legal checks and provide legal advice.
+	- Obtain the necessary documents
+		- Obtain all the necessary documents, such as the title deeds, approvals, tax receipts, and EC, from the seller or the local authorities.
+	- Verify the documents
+		- Verify the authenticity and validity of the documents by cross-checking with the local authorities and the seller.
+	- Perform a legal search
+		- Perform a legal search to verify if there are any pending litigation or disputes related to the property.
+	- Obtain a legal opinion
+		- Obtain a legal opinion from the lawyer on the legal status and validity of the property.
+
 Construction Qualys Checks
 - Inspections and tests
 	- Inspections and tests are an essential part of verifying construction quality. Regular inspections and tests should be conducted during the construction process to ensure that work is progressing according to plan and meets the required quality standards. 
